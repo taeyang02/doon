@@ -1,0 +1,12 @@
+{
+  "page_url": "https://taeyang02.github.io/doon/",
+  "manifest_url": "https://taeyang02.github.io/doon/manifest.xml",
+  "ipa_url": "https://taeyang02.github.io/doon/Doon.ipa",
+  "ota_url": "itms-services://?action=download-manifest&url=https%3A%2F%2Ftaeyang02.github.io%2Fdoon%2Fmanifest.xml",
+  "qr_url": "https://taeyang02.github.io/doon/qr.png",
+  "bundle_id": "app.meerkat1968.white6111",
+  "version": "0.1.0",
+  "build": "1",
+  "sha256": "2c363970b2c96a77ae41e2303dd3dc89db03306bcaa2ef8910bee8e14f1e922f",
+  "commit": "d38088d93b47a1ea86cb091433f59383a043a7ea"
+}
